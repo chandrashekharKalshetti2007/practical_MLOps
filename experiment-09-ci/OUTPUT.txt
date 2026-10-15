@@ -8,4 +8,11 @@ Configured checks:
 - Upload outputs/ as a workflow artifact
 
 Captured result:
-The workflow is committed. A hosted GitHub Actions run for this revision has not been verified, so no successful CI run is claimed.
+Workflow: Python CI, run #2
+Status: success
+Tested commit: b158519fff043d94da5aacfaf777b77c3786977e
+Duration: 25 seconds
+Artifact: mlops-practical-outputs (2.1 KB)
+Run: https://github.com/chandrashekharKalshetti2007/practical_MLOps/actions/runs/38692030487
+
+The run completed the configured test-and-train job and uploaded its output artifact.

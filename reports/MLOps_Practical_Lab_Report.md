@@ -16,7 +16,7 @@
 | 06 | MLflow | Tracking/model-registry wrapper is included; an MLflow run was not captured because the optional dependency/service was unavailable. |
 | 07 | Model selection | Baseline logistic regression, grid-search decision tree, and randomized-search random forest each scored 1.0000 accuracy and macro-F1 on the synthetic holdout. |
 | 08 | Automated tests | Seven tests passed for data, feature materialization, model artifacts, and API behavior. |
-| 09 | Continuous integration | GitHub Actions workflow is configured; no successful Actions run is claimed in this report. |
+| 09 | Continuous integration | GitHub Actions Python CI run #2 passed on commit `b158519` and uploaded its output artifact. |
 | 10 | Docker | Dockerfile is included; Docker Engine was unavailable, so no image/container run is claimed. |
 | 11 | Model API | Automated HTTP tests passed for valid prediction and invalid input; network latency was not measured. |
 | 12 | Integrated workflow | Local data, feature, model, test, and API components were exercised; external-service limitations remain explicit. |
@@ -33,7 +33,7 @@ The 240-row deterministic synthetic dataset was split into 180 training rows and
 
 - Per-experiment commands and observed results are in the corresponding `OUTPUT.txt` files.
 - DVC, Feast, and MLflow dependencies and remote/service configuration were not installed or executed in this environment.
-- The GitHub Actions workflow is committed, but this report does not assert a green hosted run.
+- GitHub Actions run #2 passed on commit `b158519`; the workflow and run log are linked from Experiment 9.
 - Docker was unavailable; the Dockerfile was not built.
 - Prediction endpoint tests use an in-process ASGI transport; no network benchmark or calibrated-confidence analysis was run.
 - Synthetic data is suitable for demonstrating deterministic workflow behavior only. Replace it with approved, sufficiently large data before drawing domain conclusions.

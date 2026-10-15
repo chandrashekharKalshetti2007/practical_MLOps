@@ -11,7 +11,7 @@ Run the same automated test suite and pipeline validation when changes are pushe
 The canonical workflow is [`.github/workflows/ci.yml`](../.github/workflows/ci.yml). It checks out the repository, sets up Python, installs requirements, runs `python -m pytest -v experiment-08-testing/tests`, executes the training pipeline, and uploads the output summary.
 
 ## Captured result
-The workflow is configured and committed. A hosted Actions run has not been verified for this revision; [`OUTPUT.txt`](./OUTPUT.txt) records that status instead of claiming a green run.
+Python CI run #2 completed successfully on commit `b158519` in 25 seconds and uploaded its output artifact. See [`OUTPUT.txt`](./OUTPUT.txt) for the run link and details.
 
 ## Viva questions
 1. Which events trigger this workflow?

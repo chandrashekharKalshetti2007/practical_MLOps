@@ -11,7 +11,7 @@ Experiment 5: Materialized four local feature fields for 240 synthetic entities;
 Experiment 6: MLflow wrapper is present; no MLflow run was recorded.
 Experiment 7: Three model candidates scored 1.0000 accuracy and macro-F1 on a synthetic 60-row holdout. The target is derived from its features.
 Experiment 8: Seven local tests passed.
-Experiment 9: CI workflow is configured; no hosted Actions result is claimed.
+Experiment 9: GitHub Actions Python CI run #2 passed on commit b158519 and uploaded its output artifact.
 Experiment 10: Docker was unavailable; no image/container run is claimed.
 Experiment 11: In-process API tests returned HTTP 200 for valid features and HTTP 422 for invalid input. No network benchmark was taken.
 
