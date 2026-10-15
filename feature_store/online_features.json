@@ -1,0 +1,1682 @@
+{
+  "Synthetic_001": {
+    "student_id": "Synthetic_001",
+    "Marks": "76.6",
+    "Attendance": "41.5",
+    "Study_Hours": "5",
+    "Performance_Score": "62.08"
+  },
+  "Synthetic_002": {
+    "student_id": "Synthetic_002",
+    "Marks": "50.9",
+    "Attendance": "48.4",
+    "Study_Hours": "2",
+    "Performance_Score": "45.515"
+  },
+  "Synthetic_003": {
+    "student_id": "Synthetic_003",
+    "Marks": "79.0",
+    "Attendance": "93.5",
+    "Study_Hours": "2",
+    "Performance_Score": "74.5"
+  },
+  "Synthetic_004": {
+    "student_id": "Synthetic_004",
+    "Marks": "73.4",
+    "Attendance": "41.9",
+    "Study_Hours": "2",
+    "Performance_Score": "55.94"
+  },
+  "Synthetic_005": {
+    "student_id": "Synthetic_005",
+    "Marks": "49.2",
+    "Attendance": "70.3",
+    "Study_Hours": "1",
+    "Performance_Score": "49.65"
+  },
+  "Synthetic_006": {
+    "student_id": "Synthetic_006",
+    "Marks": "71.5",
+    "Attendance": "83.0",
+    "Study_Hours": "7",
+    "Performance_Score": "74.725"
+  },
+  "Synthetic_007": {
+    "student_id": "Synthetic_007",
+    "Marks": "49.3",
+    "Attendance": "75.4",
+    "Study_Hours": "1",
+    "Performance_Score": "51.235"
+  },
+  "Synthetic_008": {
+    "student_id": "Synthetic_008",
+    "Marks": "84.3",
+    "Attendance": "49.6",
+    "Study_Hours": "7",
+    "Performance_Score": "71.745"
+  },
+  "Synthetic_009": {
+    "student_id": "Synthetic_009",
+    "Marks": "57.1",
+    "Attendance": "49.3",
+    "Study_Hours": "6",
+    "Performance_Score": "55.195"
+  },
+  "Synthetic_010": {
+    "student_id": "Synthetic_010",
+    "Marks": "41.6",
+    "Attendance": "62.8",
+    "Study_Hours": "6",
+    "Performance_Score": "50.72"
+  },
+  "Synthetic_011": {
+    "student_id": "Synthetic_011",
+    "Marks": "90.1",
+    "Attendance": "76.2",
+    "Study_Hours": "1",
+    "Performance_Score": "73.915"
+  },
+  "Synthetic_012": {
+    "student_id": "Synthetic_012",
+    "Marks": "82.4",
+    "Attendance": "72.2",
+    "Study_Hours": "7",
+    "Performance_Score": "77.48"
+  },
+  "Synthetic_013": {
+    "student_id": "Synthetic_013",
+    "Marks": "40.1",
+    "Attendance": "57.6",
+    "Study_Hours": "6",
+    "Performance_Score": "48.335"
+  },
+  "Synthetic_014": {
+    "student_id": "Synthetic_014",
+    "Marks": "72.5",
+    "Attendance": "82.3",
+    "Study_Hours": "1",
+    "Performance_Score": "66.065"
+  },
+  "Synthetic_015": {
+    "student_id": "Synthetic_015",
+    "Marks": "78.0",
+    "Attendance": "86.4",
+    "Study_Hours": "2",
+    "Performance_Score": "71.82"
+  },
+  "Synthetic_016": {
+    "student_id": "Synthetic_016",
+    "Marks": "90.6",
+    "Attendance": "92.0",
+    "Study_Hours": "7",
+    "Performance_Score": "87.93"
+  },
+  "Synthetic_017": {
+    "student_id": "Synthetic_017",
+    "Marks": "53.1",
+    "Attendance": "78.1",
+    "Study_Hours": "6",
+    "Performance_Score": "61.635"
+  },
+  "Synthetic_018": {
+    "student_id": "Synthetic_018",
+    "Marks": "45.6",
+    "Attendance": "61.3",
+    "Study_Hours": "5",
+    "Performance_Score": "50.97"
+  },
+  "Synthetic_019": {
+    "student_id": "Synthetic_019",
+    "Marks": "80.6",
+    "Attendance": "81.0",
+    "Study_Hours": "2",
+    "Performance_Score": "71.63"
+  },
+  "Synthetic_020": {
+    "student_id": "Synthetic_020",
+    "Marks": "74.6",
+    "Attendance": "50.3",
+    "Study_Hours": "4",
+    "Performance_Score": "62.12"
+  },
+  "Synthetic_021": {
+    "student_id": "Synthetic_021",
+    "Marks": "45.6",
+    "Attendance": "62.8",
+    "Study_Hours": "4",
+    "Performance_Score": "49.92"
+  },
+  "Synthetic_022": {
+    "student_id": "Synthetic_022",
+    "Marks": "79.5",
+    "Attendance": "90.6",
+    "Study_Hours": "1",
+    "Performance_Score": "72.405"
+  },
+  "Synthetic_023": {
+    "student_id": "Synthetic_023",
+    "Marks": "49.9",
+    "Attendance": "41.9",
+    "Study_Hours": "6",
+    "Performance_Score": "49.015"
+  },
+  "Synthetic_024": {
+    "student_id": "Synthetic_024",
+    "Marks": "61.1",
+    "Attendance": "44.0",
+    "Study_Hours": "6",
+    "Performance_Score": "55.805"
+  },
+  "Synthetic_025": {
+    "student_id": "Synthetic_025",
+    "Marks": "48.8",
+    "Attendance": "70.0",
+    "Study_Hours": "8",
+    "Performance_Score": "59.84"
+  },
+  "Synthetic_026": {
+    "student_id": "Synthetic_026",
+    "Marks": "44.3",
+    "Attendance": "48.4",
+    "Study_Hours": "5",
+    "Performance_Score": "46.385"
+  },
+  "Synthetic_027": {
+    "student_id": "Synthetic_027",
+    "Marks": "83.6",
+    "Attendance": "65.7",
+    "Study_Hours": "7",
+    "Performance_Score": "76.19"
+  },
+  "Synthetic_028": {
+    "student_id": "Synthetic_028",
+    "Marks": "58.5",
+    "Attendance": "99.8",
+    "Study_Hours": "3",
+    "Performance_Score": "66.615"
+  },
+  "Synthetic_029": {
+    "student_id": "Synthetic_029",
+    "Marks": "68.1",
+    "Attendance": "45.5",
+    "Study_Hours": "1",
+    "Performance_Score": "52.605"
+  },
+  "Synthetic_030": {
+    "student_id": "Synthetic_030",
+    "Marks": "91.0",
+    "Attendance": "49.2",
+    "Study_Hours": "3",
+    "Performance_Score": "69.31"
+  },
+  "Synthetic_031": {
+    "student_id": "Synthetic_031",
+    "Marks": "86.5",
+    "Attendance": "65.3",
+    "Study_Hours": "2",
+    "Performance_Score": "70.165"
+  },
+  "Synthetic_032": {
+    "student_id": "Synthetic_032",
+    "Marks": "60.0",
+    "Attendance": "75.8",
+    "Study_Hours": "8",
+    "Performance_Score": "67.74"
+  },
+  "Synthetic_033": {
+    "student_id": "Synthetic_033",
+    "Marks": "69.4",
+    "Attendance": "98.3",
+    "Study_Hours": "1",
+    "Performance_Score": "69.16"
+  },
+  "Synthetic_034": {
+    "student_id": "Synthetic_034",
+    "Marks": "79.2",
+    "Attendance": "46.9",
+    "Study_Hours": "5",
+    "Performance_Score": "65.13"
+  },
+  "Synthetic_035": {
+    "student_id": "Synthetic_035",
+    "Marks": "85.0",
+    "Attendance": "60.4",
+    "Study_Hours": "5",
+    "Performance_Score": "72.37"
+  },
+  "Synthetic_036": {
+    "student_id": "Synthetic_036",
+    "Marks": "63.3",
+    "Attendance": "67.2",
+    "Study_Hours": "5",
+    "Performance_Score": "62.475"
+  },
+  "Synthetic_037": {
+    "student_id": "Synthetic_037",
+    "Marks": "98.2",
+    "Attendance": "85.7",
+    "Study_Hours": "2",
+    "Performance_Score": "82.72"
+  },
+  "Synthetic_038": {
+    "student_id": "Synthetic_038",
+    "Marks": "91.6",
+    "Attendance": "57.9",
+    "Study_Hours": "4",
+    "Performance_Score": "73.75"
+  },
+  "Synthetic_039": {
+    "student_id": "Synthetic_039",
+    "Marks": "44.9",
+    "Attendance": "85.8",
+    "Study_Hours": "1",
+    "Performance_Score": "51.935"
+  },
+  "Synthetic_040": {
+    "student_id": "Synthetic_040",
+    "Marks": "73.9",
+    "Attendance": "69.3",
+    "Study_Hours": "2",
+    "Performance_Score": "64.435"
+  },
+  "Synthetic_041": {
+    "student_id": "Synthetic_041",
+    "Marks": "95.4",
+    "Attendance": "92.7",
+    "Study_Hours": "5",
+    "Performance_Score": "87.78"
+  },
+  "Synthetic_042": {
+    "student_id": "Synthetic_042",
+    "Marks": "50.6",
+    "Attendance": "54.5",
+    "Study_Hours": "2",
+    "Performance_Score": "47.18"
+  },
+  "Synthetic_043": {
+    "student_id": "Synthetic_043",
+    "Marks": "40.6",
+    "Attendance": "69.2",
+    "Study_Hours": "2",
+    "Performance_Score": "46.09"
+  },
+  "Synthetic_044": {
+    "student_id": "Synthetic_044",
+    "Marks": "98.6",
+    "Attendance": "72.0",
+    "Study_Hours": "3",
+    "Performance_Score": "80.33"
+  },
+  "Synthetic_045": {
+    "student_id": "Synthetic_045",
+    "Marks": "43.3",
+    "Attendance": "68.5",
+    "Study_Hours": "3",
+    "Performance_Score": "48.865"
+  },
+  "Synthetic_046": {
+    "student_id": "Synthetic_046",
+    "Marks": "52.2",
+    "Attendance": "92.3",
+    "Study_Hours": "7",
+    "Performance_Score": "66.9"
+  },
+  "Synthetic_047": {
+    "student_id": "Synthetic_047",
+    "Marks": "97.7",
+    "Attendance": "95.7",
+    "Study_Hours": "4",
+    "Performance_Score": "88.445"
+  },
+  "Synthetic_048": {
+    "student_id": "Synthetic_048",
+    "Marks": "81.3",
+    "Attendance": "63.9",
+    "Study_Hours": "6",
+    "Performance_Score": "72.885"
+  },
+  "Synthetic_049": {
+    "student_id": "Synthetic_049",
+    "Marks": "63.5",
+    "Attendance": "71.1",
+    "Study_Hours": "2",
+    "Performance_Score": "59.255"
+  },
+  "Synthetic_050": {
+    "student_id": "Synthetic_050",
+    "Marks": "51.1",
+    "Attendance": "43.8",
+    "Study_Hours": "1",
+    "Performance_Score": "42.745"
+  },
+  "Synthetic_051": {
+    "student_id": "Synthetic_051",
+    "Marks": "73.2",
+    "Attendance": "53.8",
+    "Study_Hours": "4",
+    "Performance_Score": "62.4"
+  },
+  "Synthetic_052": {
+    "student_id": "Synthetic_052",
+    "Marks": "35.5",
+    "Attendance": "82.5",
+    "Study_Hours": "1",
+    "Performance_Score": "45.775"
+  },
+  "Synthetic_053": {
+    "student_id": "Synthetic_053",
+    "Marks": "49.9",
+    "Attendance": "94.3",
+    "Study_Hours": "6",
+    "Performance_Score": "64.735"
+  },
+  "Synthetic_054": {
+    "student_id": "Synthetic_054",
+    "Marks": "39.6",
+    "Attendance": "54.3",
+    "Study_Hours": "8",
+    "Performance_Score": "50.07"
+  },
+  "Synthetic_055": {
+    "student_id": "Synthetic_055",
+    "Marks": "48.9",
+    "Attendance": "47.9",
+    "Study_Hours": "8",
+    "Performance_Score": "53.265"
+  },
+  "Synthetic_056": {
+    "student_id": "Synthetic_056",
+    "Marks": "50.8",
+    "Attendance": "68.4",
+    "Study_Hours": "7",
+    "Performance_Score": "58.96"
+  },
+  "Synthetic_057": {
+    "student_id": "Synthetic_057",
+    "Marks": "47.4",
+    "Attendance": "45.8",
+    "Study_Hours": "7",
+    "Performance_Score": "50.31"
+  },
+  "Synthetic_058": {
+    "student_id": "Synthetic_058",
+    "Marks": "58.0",
+    "Attendance": "64.7",
+    "Study_Hours": "1",
+    "Performance_Score": "52.81"
+  },
+  "Synthetic_059": {
+    "student_id": "Synthetic_059",
+    "Marks": "78.8",
+    "Attendance": "99.0",
+    "Study_Hours": "2",
+    "Performance_Score": "76.04"
+  },
+  "Synthetic_060": {
+    "student_id": "Synthetic_060",
+    "Marks": "38.9",
+    "Attendance": "83.7",
+    "Study_Hours": "2",
+    "Performance_Score": "49.505"
+  },
+  "Synthetic_061": {
+    "student_id": "Synthetic_061",
+    "Marks": "51.2",
+    "Attendance": "51.4",
+    "Study_Hours": "8",
+    "Performance_Score": "55.58"
+  },
+  "Synthetic_062": {
+    "student_id": "Synthetic_062",
+    "Marks": "44.1",
+    "Attendance": "51.0",
+    "Study_Hours": "8",
+    "Performance_Score": "51.555"
+  },
+  "Synthetic_063": {
+    "student_id": "Synthetic_063",
+    "Marks": "51.2",
+    "Attendance": "95.4",
+    "Study_Hours": "8",
+    "Performance_Score": "68.78"
+  },
+  "Synthetic_064": {
+    "student_id": "Synthetic_064",
+    "Marks": "87.5",
+    "Attendance": "91.4",
+    "Study_Hours": "2",
+    "Performance_Score": "78.545"
+  },
+  "Synthetic_065": {
+    "student_id": "Synthetic_065",
+    "Marks": "38.3",
+    "Attendance": "100.0",
+    "Study_Hours": "1",
+    "Performance_Score": "52.565"
+  },
+  "Synthetic_066": {
+    "student_id": "Synthetic_066",
+    "Marks": "98.0",
+    "Attendance": "95.6",
+    "Study_Hours": "4",
+    "Performance_Score": "88.58"
+  },
+  "Synthetic_067": {
+    "student_id": "Synthetic_067",
+    "Marks": "45.8",
+    "Attendance": "69.1",
+    "Study_Hours": "4",
+    "Performance_Score": "51.92"
+  },
+  "Synthetic_068": {
+    "student_id": "Synthetic_068",
+    "Marks": "91.2",
+    "Attendance": "94.1",
+    "Study_Hours": "3",
+    "Performance_Score": "82.89"
+  },
+  "Synthetic_069": {
+    "student_id": "Synthetic_069",
+    "Marks": "59.6",
+    "Attendance": "99.1",
+    "Study_Hours": "5",
+    "Performance_Score": "70.01"
+  },
+  "Synthetic_070": {
+    "student_id": "Synthetic_070",
+    "Marks": "95.2",
+    "Attendance": "87.1",
+    "Study_Hours": "5",
+    "Performance_Score": "85.99"
+  },
+  "Synthetic_071": {
+    "student_id": "Synthetic_071",
+    "Marks": "62.5",
+    "Attendance": "97.4",
+    "Study_Hours": "8",
+    "Performance_Score": "75.595"
+  },
+  "Synthetic_072": {
+    "student_id": "Synthetic_072",
+    "Marks": "45.1",
+    "Attendance": "57.8",
+    "Study_Hours": "1",
+    "Performance_Score": "43.645"
+  },
+  "Synthetic_073": {
+    "student_id": "Synthetic_073",
+    "Marks": "72.6",
+    "Attendance": "72.5",
+    "Study_Hours": "6",
+    "Performance_Score": "70.68"
+  },
+  "Synthetic_074": {
+    "student_id": "Synthetic_074",
+    "Marks": "38.7",
+    "Attendance": "75.1",
+    "Study_Hours": "3",
+    "Performance_Score": "48.315"
+  },
+  "Synthetic_075": {
+    "student_id": "Synthetic_075",
+    "Marks": "38.7",
+    "Attendance": "70.5",
+    "Study_Hours": "3",
+    "Performance_Score": "46.935"
+  },
+  "Synthetic_076": {
+    "student_id": "Synthetic_076",
+    "Marks": "39.5",
+    "Attendance": "44.1",
+    "Study_Hours": "4",
+    "Performance_Score": "40.955"
+  },
+  "Synthetic_077": {
+    "student_id": "Synthetic_077",
+    "Marks": "61.2",
+    "Attendance": "96.5",
+    "Study_Hours": "4",
+    "Performance_Score": "68.61"
+  },
+  "Synthetic_078": {
+    "student_id": "Synthetic_078",
+    "Marks": "72.6",
+    "Attendance": "42.4",
+    "Study_Hours": "2",
+    "Performance_Score": "55.65"
+  },
+  "Synthetic_079": {
+    "student_id": "Synthetic_079",
+    "Marks": "62.2",
+    "Attendance": "75.0",
+    "Study_Hours": "6",
+    "Performance_Score": "65.71"
+  },
+  "Synthetic_080": {
+    "student_id": "Synthetic_080",
+    "Marks": "95.8",
+    "Attendance": "52.3",
+    "Study_Hours": "6",
+    "Performance_Score": "77.38"
+  },
+  "Synthetic_081": {
+    "student_id": "Synthetic_081",
+    "Marks": "50.5",
+    "Attendance": "63.7",
+    "Study_Hours": "5",
+    "Performance_Score": "54.385"
+  },
+  "Synthetic_082": {
+    "student_id": "Synthetic_082",
+    "Marks": "64.7",
+    "Attendance": "95.7",
+    "Study_Hours": "2",
+    "Performance_Score": "67.295"
+  },
+  "Synthetic_083": {
+    "student_id": "Synthetic_083",
+    "Marks": "35.6",
+    "Attendance": "77.3",
+    "Study_Hours": "2",
+    "Performance_Score": "45.77"
+  },
+  "Synthetic_084": {
+    "student_id": "Synthetic_084",
+    "Marks": "39.8",
+    "Attendance": "52.8",
+    "Study_Hours": "5",
+    "Performance_Score": "45.23"
+  },
+  "Synthetic_085": {
+    "student_id": "Synthetic_085",
+    "Marks": "43.6",
+    "Attendance": "60.9",
+    "Study_Hours": "2",
+    "Performance_Score": "45.25"
+  },
+  "Synthetic_086": {
+    "student_id": "Synthetic_086",
+    "Marks": "92.2",
+    "Attendance": "62.2",
+    "Study_Hours": "3",
+    "Performance_Score": "73.87"
+  },
+  "Synthetic_087": {
+    "student_id": "Synthetic_087",
+    "Marks": "63.5",
+    "Attendance": "72.6",
+    "Study_Hours": "5",
+    "Performance_Score": "64.205"
+  },
+  "Synthetic_088": {
+    "student_id": "Synthetic_088",
+    "Marks": "74.8",
+    "Attendance": "99.2",
+    "Study_Hours": "1",
+    "Performance_Score": "72.4"
+  },
+  "Synthetic_089": {
+    "student_id": "Synthetic_089",
+    "Marks": "78.4",
+    "Attendance": "73.3",
+    "Study_Hours": "2",
+    "Performance_Score": "68.11"
+  },
+  "Synthetic_090": {
+    "student_id": "Synthetic_090",
+    "Marks": "96.0",
+    "Attendance": "48.1",
+    "Study_Hours": "2",
+    "Performance_Score": "70.23"
+  },
+  "Synthetic_091": {
+    "student_id": "Synthetic_091",
+    "Marks": "92.8",
+    "Attendance": "84.5",
+    "Study_Hours": "3",
+    "Performance_Score": "80.89"
+  },
+  "Synthetic_092": {
+    "student_id": "Synthetic_092",
+    "Marks": "52.7",
+    "Attendance": "76.3",
+    "Study_Hours": "6",
+    "Performance_Score": "60.875"
+  },
+  "Synthetic_093": {
+    "student_id": "Synthetic_093",
+    "Marks": "48.2",
+    "Attendance": "78.1",
+    "Study_Hours": "5",
+    "Performance_Score": "57.44"
+  },
+  "Synthetic_094": {
+    "student_id": "Synthetic_094",
+    "Marks": "67.9",
+    "Attendance": "55.1",
+    "Study_Hours": "1",
+    "Performance_Score": "55.375"
+  },
+  "Synthetic_095": {
+    "student_id": "Synthetic_095",
+    "Marks": "41.0",
+    "Attendance": "65.4",
+    "Study_Hours": "5",
+    "Performance_Score": "49.67"
+  },
+  "Synthetic_096": {
+    "student_id": "Synthetic_096",
+    "Marks": "37.9",
+    "Attendance": "60.0",
+    "Study_Hours": "3",
+    "Performance_Score": "43.345"
+  },
+  "Synthetic_097": {
+    "student_id": "Synthetic_097",
+    "Marks": "76.4",
+    "Attendance": "55.7",
+    "Study_Hours": "8",
+    "Performance_Score": "70.73"
+  },
+  "Synthetic_098": {
+    "student_id": "Synthetic_098",
+    "Marks": "70.9",
+    "Attendance": "65.7",
+    "Study_Hours": "1",
+    "Performance_Score": "60.205"
+  },
+  "Synthetic_099": {
+    "student_id": "Synthetic_099",
+    "Marks": "42.3",
+    "Attendance": "96.7",
+    "Study_Hours": "3",
+    "Performance_Score": "56.775"
+  },
+  "Synthetic_100": {
+    "student_id": "Synthetic_100",
+    "Marks": "70.5",
+    "Attendance": "90.1",
+    "Study_Hours": "3",
+    "Performance_Score": "70.305"
+  },
+  "Synthetic_101": {
+    "student_id": "Synthetic_101",
+    "Marks": "62.9",
+    "Attendance": "42.5",
+    "Study_Hours": "6",
+    "Performance_Score": "56.345"
+  },
+  "Synthetic_102": {
+    "student_id": "Synthetic_102",
+    "Marks": "93.4",
+    "Attendance": "87.8",
+    "Study_Hours": "1",
+    "Performance_Score": "79.21"
+  },
+  "Synthetic_103": {
+    "student_id": "Synthetic_103",
+    "Marks": "93.4",
+    "Attendance": "52.6",
+    "Study_Hours": "4",
+    "Performance_Score": "73.15"
+  },
+  "Synthetic_104": {
+    "student_id": "Synthetic_104",
+    "Marks": "78.4",
+    "Attendance": "61.2",
+    "Study_Hours": "7",
+    "Performance_Score": "71.98"
+  },
+  "Synthetic_105": {
+    "student_id": "Synthetic_105",
+    "Marks": "98.3",
+    "Attendance": "85.0",
+    "Study_Hours": "4",
+    "Performance_Score": "85.565"
+  },
+  "Synthetic_106": {
+    "student_id": "Synthetic_106",
+    "Marks": "91.2",
+    "Attendance": "98.6",
+    "Study_Hours": "3",
+    "Performance_Score": "84.24"
+  },
+  "Synthetic_107": {
+    "student_id": "Synthetic_107",
+    "Marks": "92.3",
+    "Attendance": "41.5",
+    "Study_Hours": "6",
+    "Performance_Score": "72.215"
+  },
+  "Synthetic_108": {
+    "student_id": "Synthetic_108",
+    "Marks": "85.9",
+    "Attendance": "64.7",
+    "Study_Hours": "4",
+    "Performance_Score": "72.655"
+  },
+  "Synthetic_109": {
+    "student_id": "Synthetic_109",
+    "Marks": "52.3",
+    "Attendance": "87.2",
+    "Study_Hours": "2",
+    "Performance_Score": "57.925"
+  },
+  "Synthetic_110": {
+    "student_id": "Synthetic_110",
+    "Marks": "59.9",
+    "Attendance": "42.3",
+    "Study_Hours": "8",
+    "Performance_Score": "57.635"
+  },
+  "Synthetic_111": {
+    "student_id": "Synthetic_111",
+    "Marks": "49.5",
+    "Attendance": "89.0",
+    "Study_Hours": "8",
+    "Performance_Score": "65.925"
+  },
+  "Synthetic_112": {
+    "student_id": "Synthetic_112",
+    "Marks": "57.7",
+    "Attendance": "89.2",
+    "Study_Hours": "4",
+    "Performance_Score": "64.495"
+  },
+  "Synthetic_113": {
+    "student_id": "Synthetic_113",
+    "Marks": "49.5",
+    "Attendance": "79.6",
+    "Study_Hours": "7",
+    "Performance_Score": "61.605"
+  },
+  "Synthetic_114": {
+    "student_id": "Synthetic_114",
+    "Marks": "56.3",
+    "Attendance": "91.9",
+    "Study_Hours": "5",
+    "Performance_Score": "66.035"
+  },
+  "Synthetic_115": {
+    "student_id": "Synthetic_115",
+    "Marks": "57.8",
+    "Attendance": "70.6",
+    "Study_Hours": "6",
+    "Performance_Score": "61.97"
+  },
+  "Synthetic_116": {
+    "student_id": "Synthetic_116",
+    "Marks": "96.1",
+    "Attendance": "46.9",
+    "Study_Hours": "5",
+    "Performance_Score": "74.425"
+  },
+  "Synthetic_117": {
+    "student_id": "Synthetic_117",
+    "Marks": "46.6",
+    "Attendance": "97.8",
+    "Study_Hours": "5",
+    "Performance_Score": "62.47"
+  },
+  "Synthetic_118": {
+    "student_id": "Synthetic_118",
+    "Marks": "37.5",
+    "Attendance": "75.8",
+    "Study_Hours": "6",
+    "Performance_Score": "52.365"
+  },
+  "Synthetic_119": {
+    "student_id": "Synthetic_119",
+    "Marks": "82.4",
+    "Attendance": "58.8",
+    "Study_Hours": "2",
+    "Performance_Score": "65.96"
+  },
+  "Synthetic_120": {
+    "student_id": "Synthetic_120",
+    "Marks": "60.0",
+    "Attendance": "74.6",
+    "Study_Hours": "5",
+    "Performance_Score": "62.88"
+  },
+  "Synthetic_121": {
+    "student_id": "Synthetic_121",
+    "Marks": "37.9",
+    "Attendance": "66.2",
+    "Study_Hours": "4",
+    "Performance_Score": "46.705"
+  },
+  "Synthetic_122": {
+    "student_id": "Synthetic_122",
+    "Marks": "58.7",
+    "Attendance": "44.2",
+    "Study_Hours": "6",
+    "Performance_Score": "54.545"
+  },
+  "Synthetic_123": {
+    "student_id": "Synthetic_123",
+    "Marks": "75.5",
+    "Attendance": "79.8",
+    "Study_Hours": "2",
+    "Performance_Score": "68.465"
+  },
+  "Synthetic_124": {
+    "student_id": "Synthetic_124",
+    "Marks": "81.8",
+    "Attendance": "58.0",
+    "Study_Hours": "5",
+    "Performance_Score": "69.89"
+  },
+  "Synthetic_125": {
+    "student_id": "Synthetic_125",
+    "Marks": "78.3",
+    "Attendance": "59.6",
+    "Study_Hours": "5",
+    "Performance_Score": "68.445"
+  },
+  "Synthetic_126": {
+    "student_id": "Synthetic_126",
+    "Marks": "71.0",
+    "Attendance": "51.5",
+    "Study_Hours": "7",
+    "Performance_Score": "65.0"
+  },
+  "Synthetic_127": {
+    "student_id": "Synthetic_127",
+    "Marks": "79.0",
+    "Attendance": "94.2",
+    "Study_Hours": "5",
+    "Performance_Score": "79.21"
+  },
+  "Synthetic_128": {
+    "student_id": "Synthetic_128",
+    "Marks": "61.4",
+    "Attendance": "90.0",
+    "Study_Hours": "5",
+    "Performance_Score": "68.27"
+  },
+  "Synthetic_129": {
+    "student_id": "Synthetic_129",
+    "Marks": "53.6",
+    "Attendance": "65.8",
+    "Study_Hours": "6",
+    "Performance_Score": "58.22"
+  },
+  "Synthetic_130": {
+    "student_id": "Synthetic_130",
+    "Marks": "65.2",
+    "Attendance": "66.5",
+    "Study_Hours": "4",
+    "Performance_Score": "61.81"
+  },
+  "Synthetic_131": {
+    "student_id": "Synthetic_131",
+    "Marks": "68.2",
+    "Attendance": "87.6",
+    "Study_Hours": "3",
+    "Performance_Score": "68.29"
+  },
+  "Synthetic_132": {
+    "student_id": "Synthetic_132",
+    "Marks": "77.8",
+    "Attendance": "57.0",
+    "Study_Hours": "6",
+    "Performance_Score": "68.89"
+  },
+  "Synthetic_133": {
+    "student_id": "Synthetic_133",
+    "Marks": "41.1",
+    "Attendance": "97.1",
+    "Study_Hours": "4",
+    "Performance_Score": "57.735"
+  },
+  "Synthetic_134": {
+    "student_id": "Synthetic_134",
+    "Marks": "78.7",
+    "Attendance": "53.5",
+    "Study_Hours": "4",
+    "Performance_Score": "65.335"
+  },
+  "Synthetic_135": {
+    "student_id": "Synthetic_135",
+    "Marks": "44.6",
+    "Attendance": "42.8",
+    "Study_Hours": "8",
+    "Performance_Score": "49.37"
+  },
+  "Synthetic_136": {
+    "student_id": "Synthetic_136",
+    "Marks": "74.7",
+    "Attendance": "86.1",
+    "Study_Hours": "8",
+    "Performance_Score": "78.915"
+  },
+  "Synthetic_137": {
+    "student_id": "Synthetic_137",
+    "Marks": "61.9",
+    "Attendance": "77.8",
+    "Study_Hours": "4",
+    "Performance_Score": "63.385"
+  },
+  "Synthetic_138": {
+    "student_id": "Synthetic_138",
+    "Marks": "81.7",
+    "Attendance": "63.0",
+    "Study_Hours": "7",
+    "Performance_Score": "74.335"
+  },
+  "Synthetic_139": {
+    "student_id": "Synthetic_139",
+    "Marks": "50.9",
+    "Attendance": "79.4",
+    "Study_Hours": "1",
+    "Performance_Score": "53.315"
+  },
+  "Synthetic_140": {
+    "student_id": "Synthetic_140",
+    "Marks": "93.0",
+    "Attendance": "91.6",
+    "Study_Hours": "2",
+    "Performance_Score": "81.63"
+  },
+  "Synthetic_141": {
+    "student_id": "Synthetic_141",
+    "Marks": "85.6",
+    "Attendance": "53.1",
+    "Study_Hours": "8",
+    "Performance_Score": "75.01"
+  },
+  "Synthetic_142": {
+    "student_id": "Synthetic_142",
+    "Marks": "38.3",
+    "Attendance": "55.0",
+    "Study_Hours": "2",
+    "Performance_Score": "40.565"
+  },
+  "Synthetic_143": {
+    "student_id": "Synthetic_143",
+    "Marks": "64.7",
+    "Attendance": "88.1",
+    "Study_Hours": "6",
+    "Performance_Score": "71.015"
+  },
+  "Synthetic_144": {
+    "student_id": "Synthetic_144",
+    "Marks": "96.8",
+    "Attendance": "93.5",
+    "Study_Hours": "7",
+    "Performance_Score": "91.79"
+  },
+  "Synthetic_145": {
+    "student_id": "Synthetic_145",
+    "Marks": "89.0",
+    "Attendance": "72.9",
+    "Study_Hours": "3",
+    "Performance_Score": "75.32"
+  },
+  "Synthetic_146": {
+    "student_id": "Synthetic_146",
+    "Marks": "83.3",
+    "Attendance": "68.5",
+    "Study_Hours": "5",
+    "Performance_Score": "73.865"
+  },
+  "Synthetic_147": {
+    "student_id": "Synthetic_147",
+    "Marks": "83.9",
+    "Attendance": "90.4",
+    "Study_Hours": "5",
+    "Performance_Score": "80.765"
+  },
+  "Synthetic_148": {
+    "student_id": "Synthetic_148",
+    "Marks": "84.8",
+    "Attendance": "71.3",
+    "Study_Hours": "4",
+    "Performance_Score": "74.03"
+  },
+  "Synthetic_149": {
+    "student_id": "Synthetic_149",
+    "Marks": "52.8",
+    "Attendance": "44.6",
+    "Study_Hours": "5",
+    "Performance_Score": "49.92"
+  },
+  "Synthetic_150": {
+    "student_id": "Synthetic_150",
+    "Marks": "50.2",
+    "Attendance": "60.2",
+    "Study_Hours": "2",
+    "Performance_Score": "48.67"
+  },
+  "Synthetic_151": {
+    "student_id": "Synthetic_151",
+    "Marks": "44.0",
+    "Attendance": "53.9",
+    "Study_Hours": "3",
+    "Performance_Score": "44.87"
+  },
+  "Synthetic_152": {
+    "student_id": "Synthetic_152",
+    "Marks": "80.9",
+    "Attendance": "43.9",
+    "Study_Hours": "7",
+    "Performance_Score": "68.165"
+  },
+  "Synthetic_153": {
+    "student_id": "Synthetic_153",
+    "Marks": "56.5",
+    "Attendance": "68.0",
+    "Study_Hours": "1",
+    "Performance_Score": "52.975"
+  },
+  "Synthetic_154": {
+    "student_id": "Synthetic_154",
+    "Marks": "48.4",
+    "Attendance": "65.2",
+    "Study_Hours": "1",
+    "Performance_Score": "47.68"
+  },
+  "Synthetic_155": {
+    "student_id": "Synthetic_155",
+    "Marks": "90.7",
+    "Attendance": "85.9",
+    "Study_Hours": "7",
+    "Performance_Score": "86.155"
+  },
+  "Synthetic_156": {
+    "student_id": "Synthetic_156",
+    "Marks": "66.0",
+    "Attendance": "96.6",
+    "Study_Hours": "5",
+    "Performance_Score": "72.78"
+  },
+  "Synthetic_157": {
+    "student_id": "Synthetic_157",
+    "Marks": "84.0",
+    "Attendance": "91.2",
+    "Study_Hours": "7",
+    "Performance_Score": "84.06"
+  },
+  "Synthetic_158": {
+    "student_id": "Synthetic_158",
+    "Marks": "70.0",
+    "Attendance": "84.1",
+    "Study_Hours": "4",
+    "Performance_Score": "69.73"
+  },
+  "Synthetic_159": {
+    "student_id": "Synthetic_159",
+    "Marks": "66.7",
+    "Attendance": "56.4",
+    "Study_Hours": "8",
+    "Performance_Score": "65.605"
+  },
+  "Synthetic_160": {
+    "student_id": "Synthetic_160",
+    "Marks": "36.9",
+    "Attendance": "60.2",
+    "Study_Hours": "7",
+    "Performance_Score": "48.855"
+  },
+  "Synthetic_161": {
+    "student_id": "Synthetic_161",
+    "Marks": "82.1",
+    "Attendance": "90.4",
+    "Study_Hours": "3",
+    "Performance_Score": "76.775"
+  },
+  "Synthetic_162": {
+    "student_id": "Synthetic_162",
+    "Marks": "98.7",
+    "Attendance": "72.0",
+    "Study_Hours": "7",
+    "Performance_Score": "86.385"
+  },
+  "Synthetic_163": {
+    "student_id": "Synthetic_163",
+    "Marks": "73.5",
+    "Attendance": "79.8",
+    "Study_Hours": "2",
+    "Performance_Score": "67.365"
+  },
+  "Synthetic_164": {
+    "student_id": "Synthetic_164",
+    "Marks": "76.8",
+    "Attendance": "48.1",
+    "Study_Hours": "8",
+    "Performance_Score": "68.67"
+  },
+  "Synthetic_165": {
+    "student_id": "Synthetic_165",
+    "Marks": "46.8",
+    "Attendance": "55.6",
+    "Study_Hours": "6",
+    "Performance_Score": "51.42"
+  },
+  "Synthetic_166": {
+    "student_id": "Synthetic_166",
+    "Marks": "48.8",
+    "Attendance": "59.6",
+    "Study_Hours": "7",
+    "Performance_Score": "55.22"
+  },
+  "Synthetic_167": {
+    "student_id": "Synthetic_167",
+    "Marks": "53.1",
+    "Attendance": "97.1",
+    "Study_Hours": "7",
+    "Performance_Score": "68.835"
+  },
+  "Synthetic_168": {
+    "student_id": "Synthetic_168",
+    "Marks": "51.4",
+    "Attendance": "44.9",
+    "Study_Hours": "1",
+    "Performance_Score": "43.24"
+  },
+  "Synthetic_169": {
+    "student_id": "Synthetic_169",
+    "Marks": "83.7",
+    "Attendance": "43.1",
+    "Study_Hours": "6",
+    "Performance_Score": "67.965"
+  },
+  "Synthetic_170": {
+    "student_id": "Synthetic_170",
+    "Marks": "49.6",
+    "Attendance": "44.1",
+    "Study_Hours": "1",
+    "Performance_Score": "42.01"
+  },
+  "Synthetic_171": {
+    "student_id": "Synthetic_171",
+    "Marks": "84.0",
+    "Attendance": "97.0",
+    "Study_Hours": "4",
+    "Performance_Score": "81.3"
+  },
+  "Synthetic_172": {
+    "student_id": "Synthetic_172",
+    "Marks": "89.5",
+    "Attendance": "77.3",
+    "Study_Hours": "4",
+    "Performance_Score": "78.415"
+  },
+  "Synthetic_173": {
+    "student_id": "Synthetic_173",
+    "Marks": "43.2",
+    "Attendance": "80.2",
+    "Study_Hours": "4",
+    "Performance_Score": "53.82"
+  },
+  "Synthetic_174": {
+    "student_id": "Synthetic_174",
+    "Marks": "65.2",
+    "Attendance": "55.4",
+    "Study_Hours": "6",
+    "Performance_Score": "61.48"
+  },
+  "Synthetic_175": {
+    "student_id": "Synthetic_175",
+    "Marks": "45.9",
+    "Attendance": "76.4",
+    "Study_Hours": "2",
+    "Performance_Score": "51.165"
+  },
+  "Synthetic_176": {
+    "student_id": "Synthetic_176",
+    "Marks": "85.6",
+    "Attendance": "49.8",
+    "Study_Hours": "5",
+    "Performance_Score": "69.52"
+  },
+  "Synthetic_177": {
+    "student_id": "Synthetic_177",
+    "Marks": "42.0",
+    "Attendance": "41.5",
+    "Study_Hours": "5",
+    "Performance_Score": "43.05"
+  },
+  "Synthetic_178": {
+    "student_id": "Synthetic_178",
+    "Marks": "72.4",
+    "Attendance": "94.5",
+    "Study_Hours": "7",
+    "Performance_Score": "78.67"
+  },
+  "Synthetic_179": {
+    "student_id": "Synthetic_179",
+    "Marks": "60.8",
+    "Attendance": "82.9",
+    "Study_Hours": "2",
+    "Performance_Score": "61.31"
+  },
+  "Synthetic_180": {
+    "student_id": "Synthetic_180",
+    "Marks": "73.5",
+    "Attendance": "89.8",
+    "Study_Hours": "4",
+    "Performance_Score": "73.365"
+  },
+  "Synthetic_181": {
+    "student_id": "Synthetic_181",
+    "Marks": "41.6",
+    "Attendance": "86.3",
+    "Study_Hours": "2",
+    "Performance_Score": "51.77"
+  },
+  "Synthetic_182": {
+    "student_id": "Synthetic_182",
+    "Marks": "86.8",
+    "Attendance": "74.0",
+    "Study_Hours": "1",
+    "Performance_Score": "71.44"
+  },
+  "Synthetic_183": {
+    "student_id": "Synthetic_183",
+    "Marks": "57.6",
+    "Attendance": "65.7",
+    "Study_Hours": "6",
+    "Performance_Score": "60.39"
+  },
+  "Synthetic_184": {
+    "student_id": "Synthetic_184",
+    "Marks": "39.5",
+    "Attendance": "78.9",
+    "Study_Hours": "1",
+    "Performance_Score": "46.895"
+  },
+  "Synthetic_185": {
+    "student_id": "Synthetic_185",
+    "Marks": "90.2",
+    "Attendance": "89.3",
+    "Study_Hours": "2",
+    "Performance_Score": "79.4"
+  },
+  "Synthetic_186": {
+    "student_id": "Synthetic_186",
+    "Marks": "63.2",
+    "Attendance": "61.7",
+    "Study_Hours": "8",
+    "Performance_Score": "65.27"
+  },
+  "Synthetic_187": {
+    "student_id": "Synthetic_187",
+    "Marks": "81.0",
+    "Attendance": "66.1",
+    "Study_Hours": "5",
+    "Performance_Score": "71.88"
+  },
+  "Synthetic_188": {
+    "student_id": "Synthetic_188",
+    "Marks": "75.0",
+    "Attendance": "95.2",
+    "Study_Hours": "8",
+    "Performance_Score": "81.81"
+  },
+  "Synthetic_189": {
+    "student_id": "Synthetic_189",
+    "Marks": "65.2",
+    "Attendance": "89.5",
+    "Study_Hours": "5",
+    "Performance_Score": "70.21"
+  },
+  "Synthetic_190": {
+    "student_id": "Synthetic_190",
+    "Marks": "55.9",
+    "Attendance": "54.7",
+    "Study_Hours": "2",
+    "Performance_Score": "50.155"
+  },
+  "Synthetic_191": {
+    "student_id": "Synthetic_191",
+    "Marks": "53.1",
+    "Attendance": "67.0",
+    "Study_Hours": "8",
+    "Performance_Score": "61.305"
+  },
+  "Synthetic_192": {
+    "student_id": "Synthetic_192",
+    "Marks": "72.0",
+    "Attendance": "80.1",
+    "Study_Hours": "6",
+    "Performance_Score": "72.63"
+  },
+  "Synthetic_193": {
+    "student_id": "Synthetic_193",
+    "Marks": "36.9",
+    "Attendance": "91.1",
+    "Study_Hours": "3",
+    "Performance_Score": "52.125"
+  },
+  "Synthetic_194": {
+    "student_id": "Synthetic_194",
+    "Marks": "66.7",
+    "Attendance": "61.3",
+    "Study_Hours": "5",
+    "Performance_Score": "62.575"
+  },
+  "Synthetic_195": {
+    "student_id": "Synthetic_195",
+    "Marks": "57.1",
+    "Attendance": "92.8",
+    "Study_Hours": "5",
+    "Performance_Score": "66.745"
+  },
+  "Synthetic_196": {
+    "student_id": "Synthetic_196",
+    "Marks": "71.1",
+    "Attendance": "71.0",
+    "Study_Hours": "4",
+    "Performance_Score": "66.405"
+  },
+  "Synthetic_197": {
+    "student_id": "Synthetic_197",
+    "Marks": "40.6",
+    "Attendance": "83.2",
+    "Study_Hours": "8",
+    "Performance_Score": "59.29"
+  },
+  "Synthetic_198": {
+    "student_id": "Synthetic_198",
+    "Marks": "71.1",
+    "Attendance": "54.4",
+    "Study_Hours": "8",
+    "Performance_Score": "67.425"
+  },
+  "Synthetic_199": {
+    "student_id": "Synthetic_199",
+    "Marks": "77.0",
+    "Attendance": "69.4",
+    "Study_Hours": "1",
+    "Performance_Score": "64.67"
+  },
+  "Synthetic_200": {
+    "student_id": "Synthetic_200",
+    "Marks": "41.0",
+    "Attendance": "53.3",
+    "Study_Hours": "4",
+    "Performance_Score": "44.54"
+  },
+  "Synthetic_201": {
+    "student_id": "Synthetic_201",
+    "Marks": "54.9",
+    "Attendance": "74.9",
+    "Study_Hours": "8",
+    "Performance_Score": "64.665"
+  },
+  "Synthetic_202": {
+    "student_id": "Synthetic_202",
+    "Marks": "71.0",
+    "Attendance": "60.6",
+    "Study_Hours": "6",
+    "Performance_Score": "66.23"
+  },
+  "Synthetic_203": {
+    "student_id": "Synthetic_203",
+    "Marks": "57.9",
+    "Attendance": "67.2",
+    "Study_Hours": "5",
+    "Performance_Score": "59.505"
+  },
+  "Synthetic_204": {
+    "student_id": "Synthetic_204",
+    "Marks": "51.3",
+    "Attendance": "47.2",
+    "Study_Hours": "4",
+    "Performance_Score": "48.375"
+  },
+  "Synthetic_205": {
+    "student_id": "Synthetic_205",
+    "Marks": "55.5",
+    "Attendance": "84.6",
+    "Study_Hours": "3",
+    "Performance_Score": "60.405"
+  },
+  "Synthetic_206": {
+    "student_id": "Synthetic_206",
+    "Marks": "47.5",
+    "Attendance": "84.3",
+    "Study_Hours": "5",
+    "Performance_Score": "58.915"
+  },
+  "Synthetic_207": {
+    "student_id": "Synthetic_207",
+    "Marks": "82.1",
+    "Attendance": "98.6",
+    "Study_Hours": "5",
+    "Performance_Score": "82.235"
+  },
+  "Synthetic_208": {
+    "student_id": "Synthetic_208",
+    "Marks": "98.7",
+    "Attendance": "90.0",
+    "Study_Hours": "5",
+    "Performance_Score": "88.785"
+  },
+  "Synthetic_209": {
+    "student_id": "Synthetic_209",
+    "Marks": "49.8",
+    "Attendance": "50.8",
+    "Study_Hours": "1",
+    "Performance_Score": "44.13"
+  },
+  "Synthetic_210": {
+    "student_id": "Synthetic_210",
+    "Marks": "81.0",
+    "Attendance": "47.6",
+    "Study_Hours": "1",
+    "Performance_Score": "60.33"
+  },
+  "Synthetic_211": {
+    "student_id": "Synthetic_211",
+    "Marks": "98.3",
+    "Attendance": "73.2",
+    "Study_Hours": "3",
+    "Performance_Score": "80.525"
+  },
+  "Synthetic_212": {
+    "student_id": "Synthetic_212",
+    "Marks": "76.5",
+    "Attendance": "85.2",
+    "Study_Hours": "2",
+    "Performance_Score": "70.635"
+  },
+  "Synthetic_213": {
+    "student_id": "Synthetic_213",
+    "Marks": "91.7",
+    "Attendance": "74.4",
+    "Study_Hours": "8",
+    "Performance_Score": "84.755"
+  },
+  "Synthetic_214": {
+    "student_id": "Synthetic_214",
+    "Marks": "66.1",
+    "Attendance": "60.4",
+    "Study_Hours": "1",
+    "Performance_Score": "55.975"
+  },
+  "Synthetic_215": {
+    "student_id": "Synthetic_215",
+    "Marks": "51.4",
+    "Attendance": "91.7",
+    "Study_Hours": "2",
+    "Performance_Score": "58.78"
+  },
+  "Synthetic_216": {
+    "student_id": "Synthetic_216",
+    "Marks": "88.4",
+    "Attendance": "64.0",
+    "Study_Hours": "2",
+    "Performance_Score": "70.82"
+  },
+  "Synthetic_217": {
+    "student_id": "Synthetic_217",
+    "Marks": "72.5",
+    "Attendance": "81.2",
+    "Study_Hours": "3",
+    "Performance_Score": "68.735"
+  },
+  "Synthetic_218": {
+    "student_id": "Synthetic_218",
+    "Marks": "44.7",
+    "Attendance": "73.8",
+    "Study_Hours": "5",
+    "Performance_Score": "54.225"
+  },
+  "Synthetic_219": {
+    "student_id": "Synthetic_219",
+    "Marks": "40.5",
+    "Attendance": "54.9",
+    "Study_Hours": "7",
+    "Performance_Score": "49.245"
+  },
+  "Synthetic_220": {
+    "student_id": "Synthetic_220",
+    "Marks": "74.4",
+    "Attendance": "87.4",
+    "Study_Hours": "4",
+    "Performance_Score": "73.14"
+  },
+  "Synthetic_221": {
+    "student_id": "Synthetic_221",
+    "Marks": "85.4",
+    "Attendance": "62.8",
+    "Study_Hours": "8",
+    "Performance_Score": "77.81"
+  },
+  "Synthetic_222": {
+    "student_id": "Synthetic_222",
+    "Marks": "54.3",
+    "Attendance": "75.3",
+    "Study_Hours": "7",
+    "Performance_Score": "62.955"
+  },
+  "Synthetic_223": {
+    "student_id": "Synthetic_223",
+    "Marks": "54.8",
+    "Attendance": "77.3",
+    "Study_Hours": "2",
+    "Performance_Score": "56.33"
+  },
+  "Synthetic_224": {
+    "student_id": "Synthetic_224",
+    "Marks": "96.6",
+    "Attendance": "52.5",
+    "Study_Hours": "4",
+    "Performance_Score": "74.88"
+  },
+  "Synthetic_225": {
+    "student_id": "Synthetic_225",
+    "Marks": "52.2",
+    "Attendance": "44.9",
+    "Study_Hours": "4",
+    "Performance_Score": "48.18"
+  },
+  "Synthetic_226": {
+    "student_id": "Synthetic_226",
+    "Marks": "46.3",
+    "Attendance": "44.5",
+    "Study_Hours": "1",
+    "Performance_Score": "40.315"
+  },
+  "Synthetic_227": {
+    "student_id": "Synthetic_227",
+    "Marks": "61.6",
+    "Attendance": "81.4",
+    "Study_Hours": "8",
+    "Performance_Score": "70.3"
+  },
+  "Synthetic_228": {
+    "student_id": "Synthetic_228",
+    "Marks": "53.9",
+    "Attendance": "53.9",
+    "Study_Hours": "5",
+    "Performance_Score": "53.315"
+  },
+  "Synthetic_229": {
+    "student_id": "Synthetic_229",
+    "Marks": "80.7",
+    "Attendance": "67.2",
+    "Study_Hours": "4",
+    "Performance_Score": "70.545"
+  },
+  "Synthetic_230": {
+    "student_id": "Synthetic_230",
+    "Marks": "95.1",
+    "Attendance": "87.3",
+    "Study_Hours": "4",
+    "Performance_Score": "84.495"
+  },
+  "Synthetic_231": {
+    "student_id": "Synthetic_231",
+    "Marks": "62.6",
+    "Attendance": "72.7",
+    "Study_Hours": "3",
+    "Performance_Score": "60.74"
+  },
+  "Synthetic_232": {
+    "student_id": "Synthetic_232",
+    "Marks": "94.0",
+    "Attendance": "89.6",
+    "Study_Hours": "2",
+    "Performance_Score": "81.58"
+  },
+  "Synthetic_233": {
+    "student_id": "Synthetic_233",
+    "Marks": "38.9",
+    "Attendance": "87.6",
+    "Study_Hours": "5",
+    "Performance_Score": "55.175"
+  },
+  "Synthetic_234": {
+    "student_id": "Synthetic_234",
+    "Marks": "63.5",
+    "Attendance": "68.1",
+    "Study_Hours": "5",
+    "Performance_Score": "62.855"
+  },
+  "Synthetic_235": {
+    "student_id": "Synthetic_235",
+    "Marks": "80.5",
+    "Attendance": "96.6",
+    "Study_Hours": "8",
+    "Performance_Score": "85.255"
+  },
+  "Synthetic_236": {
+    "student_id": "Synthetic_236",
+    "Marks": "63.5",
+    "Attendance": "75.9",
+    "Study_Hours": "7",
+    "Performance_Score": "68.195"
+  },
+  "Synthetic_237": {
+    "student_id": "Synthetic_237",
+    "Marks": "82.7",
+    "Attendance": "76.2",
+    "Study_Hours": "1",
+    "Performance_Score": "69.845"
+  },
+  "Synthetic_238": {
+    "student_id": "Synthetic_238",
+    "Marks": "40.9",
+    "Attendance": "97.7",
+    "Study_Hours": "1",
+    "Performance_Score": "53.305"
+  },
+  "Synthetic_239": {
+    "student_id": "Synthetic_239",
+    "Marks": "100.0",
+    "Attendance": "80.3",
+    "Study_Hours": "5",
+    "Performance_Score": "86.59"
+  },
+  "Synthetic_240": {
+    "student_id": "Synthetic_240",
+    "Marks": "72.5",
+    "Attendance": "85.8",
+    "Study_Hours": "3",
+    "Performance_Score": "70.115"
+  }
+}

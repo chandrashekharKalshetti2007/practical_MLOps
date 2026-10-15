@@ -1,0 +1,5 @@
+-r requirements.txt
+mlflow>=2.17,<4
+dvc>=3.50,<4
+feast>=0.40,<1
+pytest>=8,<9

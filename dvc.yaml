@@ -1,0 +1,14 @@
+stages:
+  train:
+    cmd: python -m mlops_practicals.run_pipeline
+    deps:
+      - mlops_practicals/data.py
+      - mlops_practicals/training.py
+      - mlops_practicals/feature_store.py
+    outs:
+      - data/synthetic_student_performance.csv
+      - feature_store/offline_features.csv
+      - feature_store/online_features.json
+      - artifacts/student_performance.joblib
+      - outputs/model_comparison.json
+      - outputs/run_summary.json

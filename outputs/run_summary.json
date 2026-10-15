@@ -1,0 +1,80 @@
+{
+  "synthetic_data_validation": {
+    "rows": 240,
+    "columns": [
+      "Name",
+      "Marks",
+      "Attendance",
+      "Study_Hours",
+      "Performance_Score",
+      "Performance"
+    ],
+    "labels": {
+      "Good": 107,
+      "Needs Improvement": 133
+    },
+    "missing_values": 0
+  },
+  "feature_store_demo": {
+    "feature_count": 4,
+    "entities_ingested": 240,
+    "online_lookup_example": {
+      "student_id": "Synthetic_001",
+      "Marks": "76.6",
+      "Attendance": "41.5",
+      "Study_Hours": "5",
+      "Performance_Score": "62.08"
+    },
+    "offline_store": "feature_store/offline_features.csv",
+    "online_store": "feature_store/online_features.json",
+    "implementation": "local teaching demo; practical 5 also includes Feast configuration"
+  },
+  "model_training": {
+    "dataset": "deterministic synthetic student-performance data",
+    "seed": 42,
+    "records": 240,
+    "train_records": 180,
+    "test_records": 60,
+    "metric_for_selection": "f1_macro",
+    "models": {
+      "baseline_logistic_regression": {
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0
+      },
+      "grid_search_decision_tree": {
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0
+      },
+      "random_search_random_forest": {
+        "accuracy": 1.0,
+        "precision_macro": 1.0,
+        "recall_macro": 1.0,
+        "f1_macro": 1.0
+      }
+    },
+    "selected_model": "baseline_logistic_regression",
+    "best_parameters": {},
+    "artifact": "artifacts/student_performance.joblib",
+    "caveat": "Synthetic demonstration results are not evidence of real-world model quality."
+  },
+  "provided_csv_validation": {
+    "rows": 5,
+    "columns": [
+      "Name",
+      "Marks",
+      "Attendance",
+      "Study_Hours",
+      "Performance_Score",
+      "Performance"
+    ],
+    "labels": {
+      "Good": 3,
+      "Needs Improvement": 2
+    },
+    "missing_values": 0
+  }
+}

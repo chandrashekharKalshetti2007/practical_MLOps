@@ -1,0 +1,3 @@
+# Output
+
+The local workflow is implemented and tested: synthetic dataset validation, feature materialization, model comparison, saved model artifact, automated tests, and prediction API. DVC/Feast/MLflow services, GitHub Actions, and Docker still need to be run after their tools and remotes are configured. See [run_summary.json](../../outputs/run_summary.json), [model_comparison.json](../../outputs/model_comparison.json), and [test-results.md](../../outputs/test-results.md).

@@ -1,0 +1,32 @@
+{
+  "dataset": "deterministic synthetic student-performance data",
+  "seed": 42,
+  "records": 240,
+  "train_records": 180,
+  "test_records": 60,
+  "metric_for_selection": "f1_macro",
+  "models": {
+    "baseline_logistic_regression": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    },
+    "grid_search_decision_tree": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    },
+    "random_search_random_forest": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    }
+  },
+  "selected_model": "baseline_logistic_regression",
+  "best_parameters": {},
+  "artifact": "artifacts/student_performance.joblib",
+  "caveat": "Synthetic demonstration results are not evidence of real-world model quality."
+}

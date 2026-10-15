@@ -1,0 +1,241 @@
+Name,Marks,Attendance,Study_Hours,Performance_Score,Performance
+Synthetic_001,76.6,41.5,5,62.08,Needs Improvement
+Synthetic_002,50.9,48.4,2,45.515,Needs Improvement
+Synthetic_003,79.0,93.5,2,74.5,Good
+Synthetic_004,73.4,41.9,2,55.94,Needs Improvement
+Synthetic_005,49.2,70.3,1,49.65,Needs Improvement
+Synthetic_006,71.5,83.0,7,74.725,Good
+Synthetic_007,49.3,75.4,1,51.235,Needs Improvement
+Synthetic_008,84.3,49.6,7,71.745,Good
+Synthetic_009,57.1,49.3,6,55.195,Needs Improvement
+Synthetic_010,41.6,62.8,6,50.72,Needs Improvement
+Synthetic_011,90.1,76.2,1,73.915,Good
+Synthetic_012,82.4,72.2,7,77.48,Good
+Synthetic_013,40.1,57.6,6,48.335,Needs Improvement
+Synthetic_014,72.5,82.3,1,66.065,Needs Improvement
+Synthetic_015,78.0,86.4,2,71.82,Good
+Synthetic_016,90.6,92.0,7,87.93,Good
+Synthetic_017,53.1,78.1,6,61.635,Needs Improvement
+Synthetic_018,45.6,61.3,5,50.97,Needs Improvement
+Synthetic_019,80.6,81.0,2,71.63,Good
+Synthetic_020,74.6,50.3,4,62.12,Needs Improvement
+Synthetic_021,45.6,62.8,4,49.92,Needs Improvement
+Synthetic_022,79.5,90.6,1,72.405,Good
+Synthetic_023,49.9,41.9,6,49.015,Needs Improvement
+Synthetic_024,61.1,44.0,6,55.805,Needs Improvement
+Synthetic_025,48.8,70.0,8,59.84,Needs Improvement
+Synthetic_026,44.3,48.4,5,46.385,Needs Improvement
+Synthetic_027,83.6,65.7,7,76.19,Good
+Synthetic_028,58.5,99.8,3,66.615,Needs Improvement
+Synthetic_029,68.1,45.5,1,52.605,Needs Improvement
+Synthetic_030,91.0,49.2,3,69.31,Good
+Synthetic_031,86.5,65.3,2,70.165,Good
+Synthetic_032,60.0,75.8,8,67.74,Good
+Synthetic_033,69.4,98.3,1,69.16,Good
+Synthetic_034,79.2,46.9,5,65.13,Needs Improvement
+Synthetic_035,85.0,60.4,5,72.37,Good
+Synthetic_036,63.3,67.2,5,62.475,Needs Improvement
+Synthetic_037,98.2,85.7,2,82.72,Good
+Synthetic_038,91.6,57.9,4,73.75,Good
+Synthetic_039,44.9,85.8,1,51.935,Needs Improvement
+Synthetic_040,73.9,69.3,2,64.435,Needs Improvement
+Synthetic_041,95.4,92.7,5,87.78,Good
+Synthetic_042,50.6,54.5,2,47.18,Needs Improvement
+Synthetic_043,40.6,69.2,2,46.09,Needs Improvement
+Synthetic_044,98.6,72.0,3,80.33,Good
+Synthetic_045,43.3,68.5,3,48.865,Needs Improvement
+Synthetic_046,52.2,92.3,7,66.9,Needs Improvement
+Synthetic_047,97.7,95.7,4,88.445,Good
+Synthetic_048,81.3,63.9,6,72.885,Good
+Synthetic_049,63.5,71.1,2,59.255,Needs Improvement
+Synthetic_050,51.1,43.8,1,42.745,Needs Improvement
+Synthetic_051,73.2,53.8,4,62.4,Needs Improvement
+Synthetic_052,35.5,82.5,1,45.775,Needs Improvement
+Synthetic_053,49.9,94.3,6,64.735,Needs Improvement
+Synthetic_054,39.6,54.3,8,50.07,Needs Improvement
+Synthetic_055,48.9,47.9,8,53.265,Needs Improvement
+Synthetic_056,50.8,68.4,7,58.96,Needs Improvement
+Synthetic_057,47.4,45.8,7,50.31,Needs Improvement
+Synthetic_058,58.0,64.7,1,52.81,Needs Improvement
+Synthetic_059,78.8,99.0,2,76.04,Good
+Synthetic_060,38.9,83.7,2,49.505,Needs Improvement
+Synthetic_061,51.2,51.4,8,55.58,Needs Improvement
+Synthetic_062,44.1,51.0,8,51.555,Needs Improvement
+Synthetic_063,51.2,95.4,8,68.78,Good
+Synthetic_064,87.5,91.4,2,78.545,Good
+Synthetic_065,38.3,100.0,1,52.565,Needs Improvement
+Synthetic_066,98.0,95.6,4,88.58,Good
+Synthetic_067,45.8,69.1,4,51.92,Needs Improvement
+Synthetic_068,91.2,94.1,3,82.89,Good
+Synthetic_069,59.6,99.1,5,70.01,Good
+Synthetic_070,95.2,87.1,5,85.99,Good
+Synthetic_071,62.5,97.4,8,75.595,Good
+Synthetic_072,45.1,57.8,1,43.645,Needs Improvement
+Synthetic_073,72.6,72.5,6,70.68,Good
+Synthetic_074,38.7,75.1,3,48.315,Needs Improvement
+Synthetic_075,38.7,70.5,3,46.935,Needs Improvement
+Synthetic_076,39.5,44.1,4,40.955,Needs Improvement
+Synthetic_077,61.2,96.5,4,68.61,Good
+Synthetic_078,72.6,42.4,2,55.65,Needs Improvement
+Synthetic_079,62.2,75.0,6,65.71,Needs Improvement
+Synthetic_080,95.8,52.3,6,77.38,Good
+Synthetic_081,50.5,63.7,5,54.385,Needs Improvement
+Synthetic_082,64.7,95.7,2,67.295,Good
+Synthetic_083,35.6,77.3,2,45.77,Needs Improvement
+Synthetic_084,39.8,52.8,5,45.23,Needs Improvement
+Synthetic_085,43.6,60.9,2,45.25,Needs Improvement
+Synthetic_086,92.2,62.2,3,73.87,Good
+Synthetic_087,63.5,72.6,5,64.205,Needs Improvement
+Synthetic_088,74.8,99.2,1,72.4,Good
+Synthetic_089,78.4,73.3,2,68.11,Good
+Synthetic_090,96.0,48.1,2,70.23,Good
+Synthetic_091,92.8,84.5,3,80.89,Good
+Synthetic_092,52.7,76.3,6,60.875,Needs Improvement
+Synthetic_093,48.2,78.1,5,57.44,Needs Improvement
+Synthetic_094,67.9,55.1,1,55.375,Needs Improvement
+Synthetic_095,41.0,65.4,5,49.67,Needs Improvement
+Synthetic_096,37.9,60.0,3,43.345,Needs Improvement
+Synthetic_097,76.4,55.7,8,70.73,Good
+Synthetic_098,70.9,65.7,1,60.205,Needs Improvement
+Synthetic_099,42.3,96.7,3,56.775,Needs Improvement
+Synthetic_100,70.5,90.1,3,70.305,Good
+Synthetic_101,62.9,42.5,6,56.345,Needs Improvement
+Synthetic_102,93.4,87.8,1,79.21,Good
+Synthetic_103,93.4,52.6,4,73.15,Good
+Synthetic_104,78.4,61.2,7,71.98,Good
+Synthetic_105,98.3,85.0,4,85.565,Good
+Synthetic_106,91.2,98.6,3,84.24,Good
+Synthetic_107,92.3,41.5,6,72.215,Good
+Synthetic_108,85.9,64.7,4,72.655,Good
+Synthetic_109,52.3,87.2,2,57.925,Needs Improvement
+Synthetic_110,59.9,42.3,8,57.635,Needs Improvement
+Synthetic_111,49.5,89.0,8,65.925,Needs Improvement
+Synthetic_112,57.7,89.2,4,64.495,Needs Improvement
+Synthetic_113,49.5,79.6,7,61.605,Needs Improvement
+Synthetic_114,56.3,91.9,5,66.035,Needs Improvement
+Synthetic_115,57.8,70.6,6,61.97,Needs Improvement
+Synthetic_116,96.1,46.9,5,74.425,Good
+Synthetic_117,46.6,97.8,5,62.47,Needs Improvement
+Synthetic_118,37.5,75.8,6,52.365,Needs Improvement
+Synthetic_119,82.4,58.8,2,65.96,Needs Improvement
+Synthetic_120,60.0,74.6,5,62.88,Needs Improvement
+Synthetic_121,37.9,66.2,4,46.705,Needs Improvement
+Synthetic_122,58.7,44.2,6,54.545,Needs Improvement
+Synthetic_123,75.5,79.8,2,68.465,Good
+Synthetic_124,81.8,58.0,5,69.89,Good
+Synthetic_125,78.3,59.6,5,68.445,Good
+Synthetic_126,71.0,51.5,7,65.0,Needs Improvement
+Synthetic_127,79.0,94.2,5,79.21,Good
+Synthetic_128,61.4,90.0,5,68.27,Good
+Synthetic_129,53.6,65.8,6,58.22,Needs Improvement
+Synthetic_130,65.2,66.5,4,61.81,Needs Improvement
+Synthetic_131,68.2,87.6,3,68.29,Good
+Synthetic_132,77.8,57.0,6,68.89,Good
+Synthetic_133,41.1,97.1,4,57.735,Needs Improvement
+Synthetic_134,78.7,53.5,4,65.335,Needs Improvement
+Synthetic_135,44.6,42.8,8,49.37,Needs Improvement
+Synthetic_136,74.7,86.1,8,78.915,Good
+Synthetic_137,61.9,77.8,4,63.385,Needs Improvement
+Synthetic_138,81.7,63.0,7,74.335,Good
+Synthetic_139,50.9,79.4,1,53.315,Needs Improvement
+Synthetic_140,93.0,91.6,2,81.63,Good
+Synthetic_141,85.6,53.1,8,75.01,Good
+Synthetic_142,38.3,55.0,2,40.565,Needs Improvement
+Synthetic_143,64.7,88.1,6,71.015,Good
+Synthetic_144,96.8,93.5,7,91.79,Good
+Synthetic_145,89.0,72.9,3,75.32,Good
+Synthetic_146,83.3,68.5,5,73.865,Good
+Synthetic_147,83.9,90.4,5,80.765,Good
+Synthetic_148,84.8,71.3,4,74.03,Good
+Synthetic_149,52.8,44.6,5,49.92,Needs Improvement
+Synthetic_150,50.2,60.2,2,48.67,Needs Improvement
+Synthetic_151,44.0,53.9,3,44.87,Needs Improvement
+Synthetic_152,80.9,43.9,7,68.165,Good
+Synthetic_153,56.5,68.0,1,52.975,Needs Improvement
+Synthetic_154,48.4,65.2,1,47.68,Needs Improvement
+Synthetic_155,90.7,85.9,7,86.155,Good
+Synthetic_156,66.0,96.6,5,72.78,Good
+Synthetic_157,84.0,91.2,7,84.06,Good
+Synthetic_158,70.0,84.1,4,69.73,Good
+Synthetic_159,66.7,56.4,8,65.605,Needs Improvement
+Synthetic_160,36.9,60.2,7,48.855,Needs Improvement
+Synthetic_161,82.1,90.4,3,76.775,Good
+Synthetic_162,98.7,72.0,7,86.385,Good
+Synthetic_163,73.5,79.8,2,67.365,Good
+Synthetic_164,76.8,48.1,8,68.67,Good
+Synthetic_165,46.8,55.6,6,51.42,Needs Improvement
+Synthetic_166,48.8,59.6,7,55.22,Needs Improvement
+Synthetic_167,53.1,97.1,7,68.835,Good
+Synthetic_168,51.4,44.9,1,43.24,Needs Improvement
+Synthetic_169,83.7,43.1,6,67.965,Good
+Synthetic_170,49.6,44.1,1,42.01,Needs Improvement
+Synthetic_171,84.0,97.0,4,81.3,Good
+Synthetic_172,89.5,77.3,4,78.415,Good
+Synthetic_173,43.2,80.2,4,53.82,Needs Improvement
+Synthetic_174,65.2,55.4,6,61.48,Needs Improvement
+Synthetic_175,45.9,76.4,2,51.165,Needs Improvement
+Synthetic_176,85.6,49.8,5,69.52,Good
+Synthetic_177,42.0,41.5,5,43.05,Needs Improvement
+Synthetic_178,72.4,94.5,7,78.67,Good
+Synthetic_179,60.8,82.9,2,61.31,Needs Improvement
+Synthetic_180,73.5,89.8,4,73.365,Good
+Synthetic_181,41.6,86.3,2,51.77,Needs Improvement
+Synthetic_182,86.8,74.0,1,71.44,Good
+Synthetic_183,57.6,65.7,6,60.39,Needs Improvement
+Synthetic_184,39.5,78.9,1,46.895,Needs Improvement
+Synthetic_185,90.2,89.3,2,79.4,Good
+Synthetic_186,63.2,61.7,8,65.27,Needs Improvement
+Synthetic_187,81.0,66.1,5,71.88,Good
+Synthetic_188,75.0,95.2,8,81.81,Good
+Synthetic_189,65.2,89.5,5,70.21,Good
+Synthetic_190,55.9,54.7,2,50.155,Needs Improvement
+Synthetic_191,53.1,67.0,8,61.305,Needs Improvement
+Synthetic_192,72.0,80.1,6,72.63,Good
+Synthetic_193,36.9,91.1,3,52.125,Needs Improvement
+Synthetic_194,66.7,61.3,5,62.575,Needs Improvement
+Synthetic_195,57.1,92.8,5,66.745,Needs Improvement
+Synthetic_196,71.1,71.0,4,66.405,Needs Improvement
+Synthetic_197,40.6,83.2,8,59.29,Needs Improvement
+Synthetic_198,71.1,54.4,8,67.425,Good
+Synthetic_199,77.0,69.4,1,64.67,Needs Improvement
+Synthetic_200,41.0,53.3,4,44.54,Needs Improvement
+Synthetic_201,54.9,74.9,8,64.665,Needs Improvement
+Synthetic_202,71.0,60.6,6,66.23,Needs Improvement
+Synthetic_203,57.9,67.2,5,59.505,Needs Improvement
+Synthetic_204,51.3,47.2,4,48.375,Needs Improvement
+Synthetic_205,55.5,84.6,3,60.405,Needs Improvement
+Synthetic_206,47.5,84.3,5,58.915,Needs Improvement
+Synthetic_207,82.1,98.6,5,82.235,Good
+Synthetic_208,98.7,90.0,5,88.785,Good
+Synthetic_209,49.8,50.8,1,44.13,Needs Improvement
+Synthetic_210,81.0,47.6,1,60.33,Needs Improvement
+Synthetic_211,98.3,73.2,3,80.525,Good
+Synthetic_212,76.5,85.2,2,70.635,Good
+Synthetic_213,91.7,74.4,8,84.755,Good
+Synthetic_214,66.1,60.4,1,55.975,Needs Improvement
+Synthetic_215,51.4,91.7,2,58.78,Needs Improvement
+Synthetic_216,88.4,64.0,2,70.82,Good
+Synthetic_217,72.5,81.2,3,68.735,Good
+Synthetic_218,44.7,73.8,5,54.225,Needs Improvement
+Synthetic_219,40.5,54.9,7,49.245,Needs Improvement
+Synthetic_220,74.4,87.4,4,73.14,Good
+Synthetic_221,85.4,62.8,8,77.81,Good
+Synthetic_222,54.3,75.3,7,62.955,Needs Improvement
+Synthetic_223,54.8,77.3,2,56.33,Needs Improvement
+Synthetic_224,96.6,52.5,4,74.88,Good
+Synthetic_225,52.2,44.9,4,48.18,Needs Improvement
+Synthetic_226,46.3,44.5,1,40.315,Needs Improvement
+Synthetic_227,61.6,81.4,8,70.3,Good
+Synthetic_228,53.9,53.9,5,53.315,Needs Improvement
+Synthetic_229,80.7,67.2,4,70.545,Good
+Synthetic_230,95.1,87.3,4,84.495,Good
+Synthetic_231,62.6,72.7,3,60.74,Needs Improvement
+Synthetic_232,94.0,89.6,2,81.58,Good
+Synthetic_233,38.9,87.6,5,55.175,Needs Improvement
+Synthetic_234,63.5,68.1,5,62.855,Needs Improvement
+Synthetic_235,80.5,96.6,8,85.255,Good
+Synthetic_236,63.5,75.9,7,68.195,Good
+Synthetic_237,82.7,76.2,1,69.845,Good
+Synthetic_238,40.9,97.7,1,53.305,Needs Improvement
+Synthetic_239,100.0,80.3,5,86.59,Good
+Synthetic_240,72.5,85.8,3,70.115,Good
