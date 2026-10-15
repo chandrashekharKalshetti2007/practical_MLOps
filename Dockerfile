@@ -4,7 +4,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY mlops_practicals ./mlops_practicals
-COPY tests ./tests
+COPY experiment-08-testing ./experiment-08-testing
 RUN python -m mlops_practicals.run_pipeline
 
 EXPOSE 8000

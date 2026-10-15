@@ -1,0 +1,11 @@
+Experiment 3 - DVC dataset tracking
+
+Configuration:
+The root dvc.yaml defines a train stage and declares data, feature, model, and summary outputs.
+
+Captured environment:
+Git is installed and the project repository is versioned.
+DVC was not installed in this environment.
+
+Result:
+dvc init, dvc repro, remote push/pull, and dataset-version comparison were not executed. No DVC transfer is claimed.

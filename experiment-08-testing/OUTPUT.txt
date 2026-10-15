@@ -1,0 +1,12 @@
+Experiment 8 - Automated tests
+
+Command:
+python -m pytest -v experiment-08-testing/tests
+
+Python: 3.13.6
+pytest: 9.1.1
+
+Captured test result:
+7 passed in 10.54s
+
+Coverage includes reproducible data generation, CSV round-trip, missing-value rejection, feature materialization, model artifact creation, valid API prediction, and invalid-input rejection.

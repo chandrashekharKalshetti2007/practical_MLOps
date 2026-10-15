@@ -1,0 +1,10 @@
+Experiment 6 - MLflow tracking status
+
+Implementation:
+mlops_practicals/mlflow_tracking.py logs parameters, model comparison metrics, a JSON artifact, and the selected model for registry submission.
+
+Captured environment:
+MLflow was not installed or run in this environment.
+
+Result:
+No MLflow run ID, UI screenshot, artifact-store record, or registry version is claimed. Run the documented command after installing requirements-tracking.txt.

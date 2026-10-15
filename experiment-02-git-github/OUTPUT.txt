@@ -1,0 +1,12 @@
+Experiment 2 - Git and GitHub repository
+
+Git: 2.55.0.windows.4
+Branch: main
+Commit: a264b86 Add MLOps practicals and outputs
+Remote: https://github.com/chandrashekharKalshetti2007/practical_MLOps
+
+Captured result:
+The initial project commit was pushed to origin/main. The remote main reference matched commit a264b8631a427aea39d7affeebf6e6e950d73471.
+
+Limitation:
+A deliberate branch-merge conflict was not created in this working repository. The README documents the isolated exercise procedure.

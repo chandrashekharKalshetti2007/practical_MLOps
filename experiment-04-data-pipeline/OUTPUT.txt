@@ -1,0 +1,19 @@
+Experiment 4 - Data processing pipeline
+
+Command:
+python -m mlops_practicals.run_pipeline --source-csv ..\processed_student_data.csv
+
+Captured output:
+Synthetic input rows: 240
+Synthetic labels: Good=107, Needs Improvement=133
+Synthetic missing values: 0
+Training rows: 180
+Test rows: 60
+Feature count: 4
+
+Provided CSV validation:
+Input rows: 5
+Labels: Good=3, Needs Improvement=2
+Missing values: 0
+
+Only generated synthetic rows were used for model training. The named input CSV was validated but not copied into this repository.

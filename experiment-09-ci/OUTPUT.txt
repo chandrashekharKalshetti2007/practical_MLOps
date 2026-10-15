@@ -1,0 +1,11 @@
+Experiment 9 - Continuous Integration
+
+Workflow: .github/workflows/ci.yml
+Configured checks:
+- Install requirements.txt
+- Run python -m pytest -v experiment-08-testing/tests
+- Execute python -m mlops_practicals.run_pipeline
+- Upload outputs/ as a workflow artifact
+
+Captured result:
+The workflow is committed. A hosted GitHub Actions run for this revision has not been verified, so no successful CI run is claimed.

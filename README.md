@@ -1,46 +1,50 @@
-# MLOps Practicals
+# MLOps Practical Laboratory
 
-A single Git repository containing the 12 MLOps practicals, shared Python code, reports, and integration examples. Each practical has its own folder under `practicals/`.
+**Department of Computer Engineering - Practical Experiments 01-12**
 
-## Important data note
+This repository is the practical record for a twelve-part MLOps laboratory. Each experiment includes its aim, requirements, procedure, implementation references, captured output, and result.
 
-The provided `processed_student_data.csv` has only five named records. Do not use it to claim model performance or commit it to a public repository. The project generates a deterministic synthetic dataset for training and evaluation; it is explicitly labeled synthetic. You may validate your local CSV with the command below, which reports schema and label counts without copying names into the repository.
+## Experiments
 
-## Setup and run
+| No. | Experiment | Open |
+|---:|---|---|
+| 01 | Introduction to MLOps and lifecycle | [Experiment 01](./experiment-01-mlops-introduction/README.md) |
+| 02 | Git, GitHub, branching, and collaboration | [Experiment 02](./experiment-02-git-github/README.md) |
+| 03 | Dataset versioning with DVC | [Experiment 03](./experiment-03-dvc/README.md) |
+| 04 | Data validation and processing pipeline | [Experiment 04](./experiment-04-data-pipeline/README.md) |
+| 05 | Feature management and feature-store concepts | [Experiment 05](./experiment-05-feature-store/README.md) |
+| 06 | Model training and experiment tracking with MLflow | [Experiment 06](./experiment-06-mlflow/README.md) |
+| 07 | Baseline model and hyperparameter search | [Experiment 07](./experiment-07-model-selection/README.md) |
+| 08 | Unit testing for data validation and serving | [Experiment 08](./experiment-08-testing/README.md) |
+| 09 | Continuous integration with GitHub Actions | [Experiment 09](./experiment-09-ci/README.md) |
+| 10 | Containerization with Docker | [Experiment 10](./experiment-10-docker/README.md) |
+| 11 | REST API model serving | [Experiment 11](./experiment-11-rest-api/README.md) |
+| 12 | Integrated MLOps workflow and results | [Experiment 12](./experiment-12-integrated-workflow/README.md) |
 
-Use Python 3.10 or newer. In PowerShell from this folder:
+## Run the Python practicals
+
+Python 3.10 or later is recommended. From the repository root:
 
 ```powershell
 py -3 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 python -m mlops_practicals.run_pipeline
-python -m unittest discover -s tests -v
+python -m pytest -v experiment-08-testing/tests
 ```
 
-The pipeline writes a synthetic CSV, a serialized model, feature-store demo files, and JSON summaries. Generated data and model files are git-ignored. Keep small reports and screenshots in the relevant practical folder; use DVC for data/model artifacts when configured.
+The experiment-specific READMEs explain each procedure. Docker requires Docker Engine/Desktop to be installed and running. DVC, Feast, and MLflow integrations are optional dependencies listed in `requirements-tracking.txt`.
 
-To validate the supplied CSV without training on it:
+## Repository files
 
-```powershell
-python -m mlops_practicals.run_pipeline --source-csv ..\processed_student_data.csv
-```
+- `requirements.txt` installs the core ML, API, and test dependencies.
+- `.gitignore` excludes local environments, caches, and secrets.
+- `.github/workflows/ci.yml` runs tests and the demo pipeline on GitHub Actions.
+- [`reports/MLOps_Practical_Lab_Report.md`](./reports/MLOps_Practical_Lab_Report.md) summarizes all experiments and verified results.
+- Each experiment's `OUTPUT.txt` records commands and results. If a tool or service was unavailable, the output states that limitation instead of presenting a sample as a successful run.
 
-## Practical index
+## Data and reproducibility
 
-1. [MLOps introduction and lifecycle](practicals/01-introduction/README.md)
-2. [Git and collaboration workflow](practicals/02-git-workflow/README.md)
-3. [DVC dataset versioning](practicals/03-dvc/README.md)
-4. [Data pipeline](practicals/04-data-pipeline/README.md)
-5. [Feature store](practicals/05-feature-store/README.md)
-6. [MLflow experiment tracking](practicals/06-mlflow/README.md)
-7. [Model selection and tuning](practicals/07-model-selection/README.md)
-8. [Automated tests](practicals/08-testing/README.md)
-9. [Continuous integration](practicals/09-ci/README.md)
-10. [Docker packaging](practicals/10-docker/README.md)
-11. [REST model API](practicals/11-api/README.md)
-12. [Complete MLOps workflow](practicals/12-capstone/README.md)
+The supplied `processed_student_data.csv` contains only five named records. It is validated locally but is not copied into this repository or used to claim model quality. Training uses a deterministic synthetic dataset; the generated target is derived from its input features, so the perfect demonstration scores are not evidence of real-world performance.
 
-## Tooling status
-
-Git and Docker were not available in the creation environment, and no GitHub credentials were provided. Practical 2, 9, and 10 include the repository workflow, CI configuration, and Docker files, but their remote/engine-specific runs must be performed after installing and signing in to those tools. MLflow, DVC, and Feast examples are optional integrations in `requirements-tracking.txt` and require their setup steps in the corresponding practicals.
+Re-run the pipeline and tests in your own environment if your course requires individually witnessed or machine-specific execution. Remote DVC storage, Feast services, MLflow registry, GitHub Actions, and Docker results are recorded only after they are actually configured and run.

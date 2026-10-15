@@ -1,0 +1,10 @@
+Experiment 11 - FastAPI model endpoint
+
+Validation method:
+HTTPX ASGI transport exercising the application's request handlers in-process.
+
+Captured test results:
+POST /predict with valid features: HTTP 200; prediction returned with confidence.
+POST /predict with Marks=150: HTTP 422; request rejected by input validation.
+
+No network latency measurement was taken. In-process test timing is not a network benchmark.

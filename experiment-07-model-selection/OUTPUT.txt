@@ -1,0 +1,16 @@
+Experiment 7 - Grid Search and Random Search
+
+Command:
+python -m mlops_practicals.run_pipeline
+
+Dataset: deterministic synthetic student-performance data (240 rows)
+Split: 180 training rows, 60 held-out test rows; random_state=42; stratified
+Selection metric: macro-F1
+
+Model                         Accuracy  Macro-F1
+baseline_logistic_regression  1.0000    1.0000
+grid_search_decision_tree     1.0000    1.0000
+random_search_random_forest   1.0000    1.0000
+
+Selected model: baseline_logistic_regression
+The synthetic label is computed from its input features, so these perfect scores demonstrate the pipeline only and do not estimate real-world performance.

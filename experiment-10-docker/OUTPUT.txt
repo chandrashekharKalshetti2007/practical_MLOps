@@ -1,0 +1,9 @@
+Experiment 10 - Docker environment check
+
+Check:
+docker --version
+
+Captured result:
+Docker command was not available in the execution environment.
+
+Docker Engine/Desktop was not available. The Dockerfile and build/run instructions are included, but no image build, container startup, or health check is claimed.

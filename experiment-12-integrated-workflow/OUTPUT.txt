@@ -1,0 +1,18 @@
+Experiment 12 - Integrated workflow results
+============================================
+
+Recorded local demonstrations
+------------------------------
+Experiment 1: Printed the MLOps lifecycle stages and included the Mermaid diagram source.
+Experiment 2: Created and pushed the project repository to GitHub on main. A deliberate merge conflict was not demonstrated.
+Experiment 3: DVC stage configuration is present; no remote was configured and no DVC transfer was run.
+Experiment 4: Validated 240 synthetic records and the five-row supplied CSV; trained only on synthetic data.
+Experiment 5: Materialized four local feature fields for 240 synthetic entities; Feast operations were not run.
+Experiment 6: MLflow wrapper is present; no MLflow run was recorded.
+Experiment 7: Three model candidates scored 1.0000 accuracy and macro-F1 on a synthetic 60-row holdout. The target is derived from its features.
+Experiment 8: Seven local tests passed.
+Experiment 9: CI workflow is configured; no hosted Actions result is claimed.
+Experiment 10: Docker was unavailable; no image/container run is claimed.
+Experiment 11: In-process API tests returned HTTP 200 for valid features and HTTP 422 for invalid input. No network benchmark was taken.
+
+See the individual OUTPUT.txt files for commands and details. External integrations and unavailable infrastructure are explicitly reported as unverified.

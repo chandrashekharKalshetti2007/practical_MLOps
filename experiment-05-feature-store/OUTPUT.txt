@@ -1,0 +1,18 @@
+Experiment 5 - Local feature retrieval demonstration
+
+Command:
+python -m mlops_practicals.run_pipeline
+
+Captured output:
+Implementation: local CSV/JSON teaching demo
+Features: 4
+Entities ingested: 240
+Offline store: feature_store/offline_features.csv
+Online store: feature_store/online_features.json
+Online lookup: Synthetic_001
+	Marks: 76.6
+	Attendance: 41.5
+	Study_Hours: 5
+	Performance_Score: 62.08
+
+Feast apply/materialization and online-store operations were not executed. The local files are not a production feature service.
